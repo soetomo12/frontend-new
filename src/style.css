@@ -1,0 +1,17 @@
+.nav-background{
+    background-color: #f1f3ff;
+}
+
+#btn-register{
+    background-color: #5cb85f;
+    border: none
+}
+
+#btn-sewa{
+    background-color: #5cb85f;
+    border: none
+}
+
+.section-mb{
+    margin-bottom: 120px;
+}
